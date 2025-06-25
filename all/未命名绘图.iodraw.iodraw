@@ -10,7 +10,7 @@
         <mxCell id="TIOoyMGV_kaCVQuQuov3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TIOoyMGV_kaCVQuQuov3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TIOoyMGV_kaCVQuQuov3-3" value="软件环境: Docker CE，K3s，以简化部署和管理工作。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TIOoyMGV_kaCVQuQuov3-5" value="操作系统: Windows, macOS, Linux, 兼容多种主流操作系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
