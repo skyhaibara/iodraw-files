@@ -7,11 +7,11 @@
         <mxCell id="TIOoyMGV_kaCVQuQuov3-1" value="推荐的硬件要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TIOoyMGV_kaCVQuQuov3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="TIOoyMGV_kaCVQuQuov3-2" value="浏览器: 最新版本的Chrome, Firefox, Safari, Edge, 以获最佳的界面展示和操作体验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TIOoyMGV_kaCVQuQuov3-3" value="软件环境: Docker CE，K3s，以简化部署和管理工作。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TIOoyMGV_kaCVQuQuov3-5" value="操作系统: Windows, macOS, Linux, 兼容多种主流操作系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
