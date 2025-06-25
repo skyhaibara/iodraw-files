@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TIOoyMGV_kaCVQuQuov3-1" value="推荐的硬件要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TIOoyMGV_kaCVQuQuov3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TIOoyMGV_kaCVQuQuov3-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="TIOoyMGV_kaCVQuQuov3-1">
+        <mxCell id="TIOoyMGV_kaCVQuQuov3-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TIOoyMGV_kaCVQuQuov3-3" target="TIOoyMGV_kaCVQuQuov3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="290" as="sourcePoint" />
             <mxPoint x="470" y="250" as="targetPoint" />
